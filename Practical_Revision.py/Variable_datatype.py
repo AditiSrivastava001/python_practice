@@ -196,3 +196,27 @@
 # Total = Basic_salary + Hra + Bonus
 
 # print(Total)
+
+# Q15. User input and calculations
+
+# Ask the user to enter two numbers.
+
+# Calculate and print:
+# - Addition
+# - Subtraction
+# - Multiplication
+# - Division
+# Make sure the inputs are converted into numbers before performing calculations.
+
+# a = int(input("Enter the first number: "))
+# b = int(input("Enter the second number: "))
+
+# c = (a+b)
+# f = a-b
+# d = (a*b)
+# e = (a/b)
+
+# print(c)
+# print(d)
+# print(e)
+# print(f)
